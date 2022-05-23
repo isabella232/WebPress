@@ -23,3 +23,16 @@ Roles are important, they are very customizable and has 3 main one, *admin, mod,
 `mod` can help `admin` out by accessing the editor(if allowed by `admin`) to make pages better. They can also report any suspicious activity and the `admin` will recive it.
 
 `member` can only view and use page elements.
+
+### Error Pages
+
+You can make custom error pages in the _dashboard.php/docerrors_ and make custom errors so your page can show something, instend of boring old error page.
+
+List of error documents(editable)
+
+1. 301 - redirect
+2. 400 - Bad request
+3. 401 - Auth required
+4. 403 - Forbidden
+5. 404 - Not Found
+6. 500 - Internal Server Error
