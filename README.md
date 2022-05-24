@@ -30,7 +30,7 @@ Roles are important, they are very customizable and has 3 main one, *admin, mod,
 
 `member` can only view and use page elements.
 
-check out the [Jobs](#jobs) 
+check out the [Jobs Document](#jobs) for what you can do with users status.
 
 ***
 
@@ -51,4 +51,14 @@ List of error documents(editable)
 
 ### Jobs
 
-In the form of roles 
+In the form of roles  of moderation. Here is a table that is defaulted to you
+
+
+| Tag | Target | custom? |
+| --- | ------ | --------- |
+| admin| first income | :heavy_multiplication_x: |
+| mod | specifiyed users | :heavy_multiplication_x: |
+| member | registered users | :heavy_multiplication_x: |
+| ghost | Unregistered users | :heavy_check_mark: |
+
+You(`admin`) can remake jobs by going to `dashboard.php/roles/edit?job={jobName}` to edit what this custom job might be
