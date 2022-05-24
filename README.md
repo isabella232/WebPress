@@ -75,3 +75,5 @@ This is for members:
 - [x] Can edit Personal profile
 - [x] Can Write - write any editable stuff on page
 - [x] Can Read - can read any editable/noneditable stuff on page
+- [x] Can Report
+- [ ] Can Make announcements
