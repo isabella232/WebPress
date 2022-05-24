@@ -66,12 +66,12 @@ These are settings you can change
 
 This is for members:
 
-[X] Can view webpage
+[x] Can view webpage
 [] Can edit webpage
-[X] Can View Public Profile items
+[x] Can View Public Profile items
 [] Can View Private Profile items
 [] Can Ban users 
 [] Can warn users
-[X] Can edit Personal profile
-[X] Can Write - write any editable stuff on page
-[X] Can Read - can read any editable/noneditable stuff on page
+[x] Can edit Personal profile
+[x] Can Write - write any editable stuff on page
+[x] Can Read - can read any editable/noneditable stuff on page
