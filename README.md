@@ -64,6 +64,20 @@ You(`admin`) can remake jobs by going to `dashboard.php/roles/edit?job={jobName}
 
 These are settings you can change
 
+Guest:
+
+- [x] Can view webpage
+- [ ] Can edit webpage
+- [ ] Can View Public Profile items
+- [ ] Can View Private Profile items
+- [ ] Can Ban users 
+- [ ] Can warn users
+- [ ] Can edit Personal profile
+- [ ] Can Write - write any editable stuff on page
+- [ ] Can Read - can read any editable/noneditable stuff on page
+- [ ] Can Report
+- [ ] Can Make announcements
+
 Members:
 
 - [x] Can view webpage
