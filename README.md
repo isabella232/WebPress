@@ -64,7 +64,7 @@ You(`admin`) can remake jobs by going to `dashboard.php/roles/edit?job={jobName}
 
 These are settings you can change
 
-This is for members:
+Members:
 
 - [x] Can view webpage
 - [ ] Can edit webpage
@@ -77,3 +77,31 @@ This is for members:
 - [x] Can Read - can read any editable/noneditable stuff on page
 - [x] Can Report
 - [ ] Can Make announcements
+
+Mod:
+
+- [x] Can view webpage
+- [X] Can edit webpage
+- [x] Can View Public Profile items
+- [X] Can View Private Profile items
+- [ ] Can Ban users 
+- [X] Can warn users
+- [x] Can edit Personal profile
+- [x] Can Write - write any editable stuff on page
+- [x] Can Read - can read any editable/noneditable stuff on page
+- [x] Can Report
+- [ ] Can Make announcements
+
+admin:
+
+- [x] Can view webpage
+- [x] Can edit webpage
+- [x] Can View Public Profile items
+- [x] Can View Private Profile items
+- [x] Can Ban users 
+- [x] Can warn users
+- [x] Can edit Personal profile
+- [x] Can Write - write any editable stuff on page
+- [x] Can Read - can read any editable/noneditable stuff on page
+- [x] Can Report
+- [x] Can Make announcements
