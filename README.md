@@ -59,6 +59,19 @@ In the form of roles  of moderation. Here is a table that is defaulted to you
 | admin| first income | :heavy_multiplication_x: |
 | mod | specifiyed users | :heavy_multiplication_x: |
 | member | registered users | :heavy_multiplication_x: |
-| ghost | Unregistered users | :heavy_check_mark: |
 
 You(`admin`) can remake jobs by going to `dashboard.php/roles/edit?job={jobName}` to edit what this custom job might be
+
+These are settings you can change
+
+This is for members:
+
+[X] Can view webpage
+[] Can edit webpage
+[X] Can View Public Profile items
+[] Can View Private Profile items
+[] Can Ban users 
+[] Can warn users
+[X] Can edit Personal profile
+[X] Can Write - write any editable stuff on page
+[X] Can Read - can read any editable/noneditable stuff on page
