@@ -67,11 +67,11 @@ These are settings you can change
 This is for members:
 
 - [x] Can view webpage
-- [] Can edit webpage
+- [ ] Can edit webpage
 - [x] Can View Public Profile items
-- [] Can View Private Profile items
-- [] Can Ban users 
-- [] Can warn users
+- [ ] Can View Private Profile items
+- [ ] Can Ban users 
+- [ ] Can warn users
 - [x] Can edit Personal profile
 - [x] Can Write - write any editable stuff on page
 - [x] Can Read - can read any editable/noneditable stuff on page
