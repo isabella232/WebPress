@@ -5,6 +5,14 @@ if(!extension_loaded('gd')){
 	echo 'You must have "gd" enabled';
 	return false;
 }
+if(!extension_loaded('json')){
+	echo 'You must have "json" enabled';
+	return false;
+}
+if(!extension_loaded('mbstring')){
+	echo 'You must have "mbstring" enabled';
+	return false;
+}
 
 date_default_timezone_set("America/New_York");
 # defination

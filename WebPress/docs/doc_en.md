@@ -12,8 +12,13 @@ this is a easy CMS that allows you use User Infrence(UI) and allow easier search
 
 ### Requirements {#requirements}
 
-* PHP 7.4 or later
-* GD library
+###### System requirements
+- PHP 7.4 or higher
+- Webserver (Apache)
+###### PHP extendtions
+- PHP [GD](http://php.net/manual/en/book.mbstring.php) module for image processing.
+- PHP [JSON](https://php.net/manual/en/book.json.php) module for JSON manipulation.
+- PHP [mbstring](http://php.net/manual/en/book.mbstring.php) module for full UTF-8 support.
 
 ***
 
