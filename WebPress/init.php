@@ -23,6 +23,9 @@ if(!is_dir('data/plugins')||!file_exists('data/plugins/')){
 if(!is_dir('data/themes')||!file_exists('data/themes/')){
 	 mkdir('data/themes');
 }
+if(!is_dir('api')||!file_exists('api/')){
+	 mkdir('api/');
+}
 #defined
 !defined('DS') ? define('DS', '/') : '';
 !defined('ROOT') ? define('ROOT', __DIR__.DS) : '';
