@@ -1,0 +1,13 @@
+{
+	"name": {
+		"en": "Core"
+	},
+	"active": "on",
+	"desc": {
+		"en":"Easy way to run WebPress, activates and creates editors and etc..."
+	},
+	"options":{
+		"canDisabled": false,
+		"usedLang": ["en-US"]
+	}
+}
